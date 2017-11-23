@@ -57,33 +57,33 @@ a {text-decoration: none;}
 	float: right;
 }
 
-header .logo {
+.logo {
 	margin-top: 30px;
 	margin-left: 20px;
 	float: left;
 }
 
-header .logo h1{
+.logo h1{
 	font-variant: small-caps;
 	font-size: 38px;
 	font-weight: bold;
 	letter-spacing:-1px;
 }
 
-header .socialmedia{
+.socialmedia{
 	float: right;
 }
 
-header .socialmedia ul{
+.socialmedia ul{
 	list-style: none;
 	margin-top: 30px;
 }
 
-header .socialmedia ul li{
+.socialmedia ul li{
 	display: inline;
 }
 
-header .socialmedia ul li a{
+.socialmedia ul li a{
 	background: #444;
 	color: #fff;
 	padding: 6px;
@@ -91,6 +91,6 @@ header .socialmedia ul li a{
 	border-radius: 22px;
 }
 
-header .socialmedia ul li a:hover{
+.socialmedia ul li a:hover{
 	background: orange;
 }
